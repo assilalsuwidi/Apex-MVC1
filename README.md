@@ -1,12 +1,21 @@
+
 # Apex-MVC
 
 A custom-built, secure PHP MVC framework designed for performance and scalability. This project is a specialized evolution of the original framework, customized by **Assil Al-Suwidi** to integrate security best practices and modern backend testing.
 
 ##  Author
 **Assil Al-Suwidi**
+assilalswuidi@gmail.com
 *Backend Developer*
 
 ---
+## Development Team
+* **Aseel Al-Suwaidi** (Lead Backend Developer) - assilalswuidi@gmail.com
+* **Amjad Sadiq** (Contributor)
+* **Hossam Mustafa** (Contributor)
+* **Aboudi Al-Obaidi** (Contributor)
+* **Ahmed Abdullah** (Contributor)
+
 
 ##  Getting Started
 
@@ -32,7 +41,7 @@ A custom-built, secure PHP MVC framework designed for performance and scalabilit
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', ''); // Your DB Password
-define('DB_NAME', 'shareposts');
+define('DB_NAME', 'Apex-MVC');
 
  * Finalize Setup:
    * Run the following command to install dependencies:
@@ -56,3 +65,6 @@ License
 This project is licensed under the MIT License.
 
 ---
+
+
+---س
