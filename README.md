@@ -29,7 +29,7 @@ assilalswuidi@gmail.com
 
 1. **Clone the project:**
    ```bash
-   git clone [https://github.com/assilalsuwidi/Apex-MVC.git](https://github.com/assilalsuwidi/Apex-MVC.git)
+   git clone [https://github.com/assilalsuwidi/Apex-MVC.git](https://github.com/assilalsuwidi/Apex-MVC1.git)
 
  * Setup Database:
    * Create a new database in PhpMyAdmin (e.g., shareposts).
